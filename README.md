@@ -21,3 +21,10 @@ programozáshoz és kutatást végezzünk a kódgenerálás terén.
 # Használt technológiák:
 - C#
 - WPF
+
+# A felület és generált kódok:
+
+![image](https://github.com/KRobertK13/CodeGenerator/assets/102753849/55955f1d-7127-4041-b263-5ccf89ce8e34)
+
+
+![image](https://github.com/KRobertK13/CodeGenerator/assets/102753849/1fda751e-7432-41d5-9240-393f495b6d22)
