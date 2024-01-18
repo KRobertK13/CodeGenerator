@@ -1,6 +1,6 @@
 # VISCON
 
-Részletes leírás a dokumentációban!
+Részletes leírás a [dokumentációban](https://github.com/KRobertK13/CodeGenerator/blob/main/temalab.pdf)!
 
 A feladat egy vizuális programozási környezet elkészítése, amely képes c kód és a hozzá
 tartozó header fájl generálására. A nyelvi elemek és vezérlési szerkezetek a tervrajzon
